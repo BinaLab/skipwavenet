@@ -8,7 +8,7 @@ Skip-WaveNet, WaveNet, and MS-CNN architectures are in ```msnet``` folder
 Please cite our work when using this code:
 ```
 @article{varshney2023skip,
-  title={Skip-WaveNet: A Wavelet based Multi-scale Architecture to Trace Firn Layers in Radar Echograms},
+  title={{Skip-WaveNet: A Wavelet based Multi-scale Architecture to Trace Firn Layers in Radar Echograms}},
   author={Varshney, Debvrat and Yari, Masoud and Ibikunle, Oluwanisola and Li, Jilu and Paden, John and Rahnemoonfar, Maryam},
   journal={arXiv preprint arXiv:2310.19574},
   year={2023}
