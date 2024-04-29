@@ -3,6 +3,8 @@ by Debvrat Varshney, Masoud Yari, Oluwanisola Ibikunle, Jilu Li, John Paden, Mar
 
 Training and inference are through ```train.py``` and ```predict.py```, respectively.
 
+Skip-WaveNet, WaveNet, and MS-CNN architectures in ```msnet``` folder
+
 Please cite our work when using this code:
 ```
 @article{varshney2023skip,
